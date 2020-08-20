@@ -17,4 +17,5 @@ The program runs from main method of TankWarGame class. There 2 players controls
 * DOWN Arrow Key -> move down
 * RIGHT Arrow Key -> rotate right
 * ENTER -> shoot
+
 School-Project
